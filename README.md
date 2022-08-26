@@ -14,7 +14,7 @@ Through this project, I did E-commerce sales and profit analysis on E-commerce d
 ## Tableau : Tableau is an excellent data visualization and business intelligence tool used for reporting and analyzing vast volumes of data. It helps users create different charts, graphs, maps, dashboards, and stories for visualizing and analyzing data, to help in making business decisions. 
 
 ## Tableau supports powerful data discovery and exploration that enables users to answer important questions in seconds
-**In this project I tried to answer following questions **
+**In this project I tried to answer following questions**
 
 Q-1 Analysis the sales and profit by each state? 
 
