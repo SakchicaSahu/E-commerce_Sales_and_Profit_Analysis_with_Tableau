@@ -9,11 +9,12 @@ Through this project, I did E-commerce sales and profit analysis on E-commerce d
 
 
 ## Project Tableau file can be accesed by this link , it was publised in public by me so that other can view this
-https://public.tableau.com/app/profile/palkesh.bhidodiya/viz/Book1_16600651072630/Dashboard1?publish=yes
+**https://public.tableau.com/app/profile/sakchica.sahu/viz/E-commereceSalesandProfitanalysis/Dashboard1?publish=yes**
 
 ## Tableau : Tableau is an excellent data visualization and business intelligence tool used for reporting and analyzing vast volumes of data. It helps users create different charts, graphs, maps, dashboards, and stories for visualizing and analyzing data, to help in making business decisions. 
 
-## I used Tableau Public, Tableau Public is free to use. They can be saved to Tableau's public cloud,  which anyone can access and view.  https://public.tableau.com/app/profile/palkesh.bhidodiya/viz/Book1_16600651072630/Dashboard1?publish=yes
+## I used Tableau Public, Tableau Public is free to use. They can be saved to Tableau's public cloud,  which anyone can access and view.  
+https://public.tableau.com/app/profile/sakchica.sahu/viz/E-commereceSalesandProfitanalysis/Dashboard1?publish=yes
 
 ## Tableau supports powerful data discovery and exploration that enables users to answer important questions in seconds
 In this project I tried to answer following questions 
@@ -34,4 +35,4 @@ I plotted Profit heatmap, Treemap, scatterplot, line chart and created Dashboard
 I have uploaded the data file and , created dashboard in most of the format so that it can be clear.
 
 Recommended to go through via this link to see dashboard :
-https://public.tableau.com/app/profile/palkesh.bhidodiya/viz/Book1_16600651072630/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/sakchica.sahu/viz/E-commereceSalesandProfitanalysis/Dashboard1?publish=yes
