@@ -16,13 +16,13 @@ Through this project, I did E-commerce sales and profit analysis on E-commerce d
 ## Tableau supports powerful data discovery and exploration that enables users to answer important questions in seconds
 **In this project I tried to answer following questions**
 
-Q-1 Analysis the sales and profit by each state? 
+Q-1 Analysing the sales and profit by each state?
 
-Q-2 Which is top Profitable state?
+Q-2 Finding the top Profitable state?
 
-Q-3 Analysis sales and profit by category and sub category ?
+Q-3 Analysing sales and profit by category and sub category ?
 
-Q-4 How do we represnt sales and profit data at the sametime for every state?
+Q-4 How do we represent sales and profit data at the sametime for every state?
 
 
 ##
